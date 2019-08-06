@@ -1,6 +1,6 @@
 #!/bin/sh -e
 gawk '{ printf("Temperatura :  %6.3f°C\n",$1/1000) }'  /sys/class/thermal/thermal_zone0/temp  									# Stampa la temperatura della CPU
-echo																															# Lascia una linea vuota
+echo																															# Lascia una linea vuota 
 echo "Frequenza di lavoro dei cores :"
 cat /sys/devices/system/cpu/cpu?/cpufreq/scaling_cur_freq | gawk '{ printf("CPU #%i      :  %6.2f GHz\n",i++, $1/1000000) }'	# Stampa la frequenza di lavoro dei cores
 echo																															# Lascia una linea vuota

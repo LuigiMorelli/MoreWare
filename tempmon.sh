@@ -32,7 +32,7 @@ fi
 # Write file header
 echo "Data,Temp" > $outfile
 
-# Execution loop
+# Execution loop 
 while [ $start -le $values ]
 do
 	date +%T > pippo 

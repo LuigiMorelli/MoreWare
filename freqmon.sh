@@ -45,4 +45,4 @@ do
 	start=$(( start+1 ))
 	sleep $step
 done
-rm pippo
+rm pippo 

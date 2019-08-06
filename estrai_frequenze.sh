@@ -1,5 +1,5 @@
 #!/bin/bash -e
-i=0
+i=0 
 totale=0
 media=0
 

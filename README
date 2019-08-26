@@ -5,7 +5,7 @@ Framework used:
 -OpenMP
 
 Platforms supported:
--Ubuntu (tested under 12.10 x86/x64 using provided CUDA framework)
+-Ubuntu (tested under 18.04 LTS x86/x64 using provided CUDA framework)
 -OS X (tested under 10.8.3 x64 using Xcode command line tools and Nvidia CUDA package)
 
 Compilation/execution:

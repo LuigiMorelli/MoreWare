@@ -10,3 +10,4 @@ Articoli trattati:
 2019/08/07 - Monitor grafico della frequenza in background <br />
 2019/08/17 - Simulazione e AI: Applicazioni per RaspberryPI (1) <br />
 2019/12/27 - Presentazione di uno sketch per ARDUINO per pilotare audio e LED in modo sincrono
+2020/01/13 - Utilizzare tabelle di lookup per ottimizzare il codice di Arduino

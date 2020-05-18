@@ -13,3 +13,4 @@ Articoli trattati:
 2020/01/13 - Utilizzare tabelle di lookup per ottimizzare il codice di Arduino<br />
 2020/04/07 - Giocare (e perdere) a pari e dispari contro Arduino.<br />
 2020/04/29 - Un file STL per la stampa in 3D del contenitore del progetto presentato sul sito da Simone Candido
+2020/05/22 - Una serie di esempi di utilizzo della funzione SerialPlotter() su Arduino

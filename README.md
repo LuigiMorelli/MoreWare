@@ -15,4 +15,5 @@ Articoli trattati:
 2020/04/29 - Un file STL per la stampa in 3D del contenitore del progetto presentato sul sito da Simone Candido<br />
 2020/05/22 - Una serie di esempi di utilizzo della funzione SerialPlotter() su Arduino<br />
 2020/07/20 - Codifica del gioco MasterMind con interazione su SerialPrint per Arduino<br />
-2020/12/08 - Visualizzare i frattali di Lyapunov sul Seeeduino Wio Terminal
+2020/09/05 - Proggetto. codice e realizzazione di un fonometro con SeeedStudio Wio Terminal <br />
+2020/12/08 - Visualizzare i frattali di Lyapunov sul Seeeduino Wio Terminal<br />

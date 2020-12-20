@@ -17,3 +17,4 @@ Articoli trattati:
 2020/07/20 - Codifica del gioco MasterMind con interazione su SerialPrint per Arduino<br />
 2020/09/05 - Progetto. codice e realizzazione di un fonometro con SeeedStudio Wio Terminal <br />
 2020/12/08 - Visualizzare i frattali di Lyapunov sul Seeeduino Wio Terminal<br />
+2020/12/21 - File di configurazione dell'utility Conky<br />

@@ -18,5 +18,5 @@ Articoli trattati:
 2020/09/05 - Progetto. codice e realizzazione di un fonometro con Seeeduino Wio Terminal <br />
 2020/12/08 - Visualizzare i frattali di Lyapunov sul Seeeduino Wio Terminal<br />
 2020/12/21 - File di configurazione dell'utility Conky<br />
-2021/02/04 - Simulazioni statistiche grafiche con Seeeduino Wio Terminal
-2021/03/30 - Dispenser automatico di croccantini per animali con Arduino
+2021/02/04 - Simulazioni statistiche grafiche con Seeeduino Wio Terminal<br />
+2021/03/30 - Dispenser automatico di croccantini per animali con Arduino<br />

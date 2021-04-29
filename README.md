@@ -20,3 +20,4 @@ Articoli trattati:
 2020/12/21 - File di configurazione dell'utility Conky<br />
 2021/02/04 - Simulazioni statistiche grafiche con Seeeduino Wio Terminal<br />
 2021/03/30 - Dispenser automatico di croccantini per animali con Arduino<br />
+2021/04/29 - FastLED #001 - I primi 4 programmi sulla gestione di Arduino e i LED "intelligenti" WS2812<br />

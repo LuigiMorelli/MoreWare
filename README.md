@@ -21,3 +21,6 @@ Articoli trattati:
 2021/02/04 - Simulazioni statistiche grafiche con Seeeduino Wio Terminal<br />
 2021/03/30 - Dispenser automatico di croccantini per animali con Arduino<br />
 2021/04/29 - FastLED #001 - I primi 4 programmi sulla gestione di Arduino e i LED "intelligenti" WS2812<br />
+2021/05/06 - FastLED #002 - Altri 2 programmi per la gestione dei LED "intelligenti" WS2812: gradiente e rainbow<br />
+2021/05/13 - FastLED #003 - Ulteriori 4 programmi con i LED WS2812 impegnati nelle animazioni di colori<br />
+2021/05/20 - FastLED #004 - Nuovi programmi per i LED "intelligenti" WS2812: come creare una tavolozza<br />

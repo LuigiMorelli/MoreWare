@@ -24,3 +24,4 @@ Articoli trattati:
 2021/05/06 - FastLED #002 - Altri 2 programmi per la gestione dei LED "intelligenti" WS2812: gradiente e rainbow<br />
 2021/05/13 - FastLED #003 - Ulteriori 4 programmi con i LED WS2812 impegnati nelle animazioni di colori<br />
 2021/05/20 - FastLED #004 - Nuovi programmi per i LED "intelligenti" WS2812: come creare una tavolozza<br />
+2021/11/01 - Wa-Tor - Simulazione di sistemi dinamici con Raspberry PI in Pascal e Lazarus. 

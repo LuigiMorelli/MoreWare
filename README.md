@@ -2,6 +2,7 @@
 Mindware site for Raspberry and Arduino prototyping
 
 Articles at http://www.moreware.org/wp
+Videos at https://www.youtube.com/channel/UCFFSDYPL0-Fx6OvJD28GP8A/videos
 
 Articoli trattati:
 ------------------

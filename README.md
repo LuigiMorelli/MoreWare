@@ -27,3 +27,4 @@ Articoli trattati:
 2021/05/20 - FastLED #004 - Nuovi programmi per i LED "intelligenti" WS2812: come creare una tavolozza<br />
 2021/11/01 - Wa-Tor - Simulazione di sistemi dinamici con Raspberry PI in Pascal e Lazarus. <br />
 2022/01/01 - Santa vs Robots - Un retrogame in scratch ideale per Raspberry PI. <br />
+2022/01/21 - TFT_MyPong - Codice pr giocare a PONG su Arduino con la scheda Moreware <br />

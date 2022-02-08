@@ -28,4 +28,4 @@ Articoli trattati:
 2021/11/01 - Wa-Tor - Simulazione di sistemi dinamici con Raspberry PI in Pascal e Lazarus. <br />
 2022/01/01 - Santa vs Robots - Un retrogame in scratch ideale per Raspberry PI. <br />
 2022/01/21 - TFT_MyPong - Codice per giocare a PONG su Arduino con la scheda Moreware <br />
-2022/01/21 - Seriale e Arduino #002 - Comunichiamo via seriale tra due schede Arduino <br />
+2022/02/08 - Seriale e Arduino #002 - Comunichiamo via seriale tra due schede Arduino <br />

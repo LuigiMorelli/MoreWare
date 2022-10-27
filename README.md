@@ -29,3 +29,4 @@ Articoli trattati:
 2022/01/01 - Santa vs Robots - Un retrogame in scratch ideale per Raspberry PI. <br />
 2022/01/21 - TFT_MyPong - Codice per giocare a PONG su Arduino con la scheda Moreware <br />
 2022/02/08 - Seriale e Arduino #002 - Comunichiamo via seriale tra due schede Arduino <br />
+2022/10/29 - COBOL su RPI - Programmmi di esempio in COBOL su Raspberry PI
